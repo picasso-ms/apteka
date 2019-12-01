@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="apteka" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7701b682-e1fb-4e57-9a84-ac5c463b00ab" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dao/medicineDao/MedicineMySqlDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1365">
+              <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding>
+                <element signature="e#916#926#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/MySqlDAOFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/medicineDao/MedicineDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/MakeOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/orderDao/OrderDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/orderDao/OrderMySqlDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/filter/ClientFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/CartServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Apteka_</find>
+      <find>getSess</find>
+      <find>session</find>
+      <find>getSession</find>
+      <find>sum</find>
+      <find>getMedecineMySql</find>
+      <find>&quot;MedicineDao&quot;</find>
+      <find>close</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/registration.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Listener.java" />
+        <option value="$PROJECT_DIR$/src/servlet/MedicineServlet.java" />
+        <option value="$PROJECT_DIR$/src/filter/aa.http" />
+        <option value="$PROJECT_DIR$/src/dao/Database.java" />
+        <option value="$PROJECT_DIR$/src/dao/userDao/UserDao.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/web/registration.jsp" />
+        <option value="$PROJECT_DIR$/src/filter/ValidationFilter.java" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/makeorder.xhtml" />
+        <option value="$PROJECT_DIR$/src/dao/orderDao/OrderDaoMySql.java" />
+        <option value="$PROJECT_DIR$/src/dao/MySqlDAOFactory.java" />
+        <option value="$PROJECT_DIR$/src/listener/ContextListener.java" />
+        <option value="$PROJECT_DIR$/src/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/dao/userDao/UserMySqlDao.java" />
+        <option value="$PROJECT_DIR$/web/jspf/navbar.jsp" />
+        <option value="$PROJECT_DIR$/src/entity/Item.java" />
+        <option value="$PROJECT_DIR$/src/dao/orderDao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/servlet/UpdateOrderStatus.java" />
+        <option value="$PROJECT_DIR$/src/dao/medicineDao/MedicineDao.java" />
+        <option value="$PROJECT_DIR$/src/servlet/ChangeMedicine.java" />
+        <option value="$PROJECT_DIR$/web/changemedicine.jsp" />
+        <option value="$PROJECT_DIR$/src/servlet/OrderList.java" />
+        <option value="$PROJECT_DIR$/web/orderlist.jsp" />
+        <option value="$PROJECT_DIR$/web/css/navbar.css" />
+        <option value="$PROJECT_DIR$/src/servlet/Login.java" />
+        <option value="$PROJECT_DIR$/src/servlet/Logout.java" />
+        <option value="$PROJECT_DIR$/web/medicine.jsp" />
+        <option value="$PROJECT_DIR$/src/entity/Medicine.java" />
+        <option value="$PROJECT_DIR$/src/entity/Order.java" />
+        <option value="$PROJECT_DIR$/src/servlet/AddUser.java" />
+        <option value="$PROJECT_DIR$/src/dao/orderDao/OrderMySqlDao.java" />
+        <option value="$PROJECT_DIR$/web/alert.jsp" />
+        <option value="$PROJECT_DIR$/web/sql.jsp" />
+        <option value="$PROJECT_DIR$/src/filter/ClientFilter.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/makeorder.jsp" />
+        <option value="$PROJECT_DIR$/web/cartlist.jsp" />
+        <option value="$PROJECT_DIR$/src/servlet/MakeOrder.java" />
+        <option value="$PROJECT_DIR$/src/servlet/AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/servlet/CartServlet.java" />
+        <option value="$PROJECT_DIR$/src/dao/medicineDao/MedicineMySqlDao.java" />
+        <option value="$PROJECT_DIR$/src/servlet/Servlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="medicineDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="orderDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="userDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jspf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apteka" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apteka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EclipseWorkSapce/Books" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspaceJava\Apteka\web" />
+      <recent name="G:\workspaceJava\Apteka\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="apteka">
+          <settings>
+            <option name="CONTEXT_PATH" value="/apteka" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_19_Apteka" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51041" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="apteka" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7701b682-e1fb-4e57-9a84-ac5c463b00ab" name="Default Changelist" comment="" />
+      <created>1559459600573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559459600573</updated>
+      <workItem from="1559459614710" duration="17425000" />
+      <workItem from="1559580497454" duration="7418000" />
+      <workItem from="1559820056467" duration="23019000" />
+      <workItem from="1559910326709" duration="23210000" />
+      <workItem from="1559975574077" duration="5023000" />
+      <workItem from="1559988381679" duration="13962000" />
+      <workItem from="1560188841990" duration="7122000" />
+      <workItem from="1560541572776" duration="6402000" />
+      <workItem from="1560581782341" duration="29680000" />
+      <workItem from="1560709336343" duration="4817000" />
+      <workItem from="1560754432112" duration="5811000" />
+      <workItem from="1560960171888" duration="3610000" />
+      <workItem from="1561013716708" duration="13111000" />
+      <workItem from="1562078482277" duration="598000" />
+      <workItem from="1562153233995" duration="208000" />
+      <workItem from="1572181633775" duration="8127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169543000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79329" visible="true" weight="0.12686567" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.20670995" side_tool="true" visible="true" weight="0.12686567" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32034633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32900432" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filter/aa.http" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/Apteka_war_exploded.xml" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/apteka/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/makeorder.xhtml" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">servlet</node>
+            <node x="" y="">listener</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">filter</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">dao</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">entity</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9001814882032668" x="245.0" y="256.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/G:/workspaceJava/Apteka/src/dao;G:/workspaceJava/Apteka/src/entity;G:/workspaceJava/Apteka/src/filter;G:/workspaceJava/Apteka/src/listener;G:/workspaceJava/Apteka/src/servlet;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/dao;G:/workspaceJava/Apteka/src/entity;G:/workspaceJava/Apteka/src/filter;G:/workspaceJava/Apteka/src/listener;G:/workspaceJava/Apteka/src/servlet;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="727.0" y="248.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/dao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>dao</OriginalElement>
+          <nodes>
+            <node x="" y="">servlet.AddToCart</node>
+            <node x="" y="">entity.Item</node>
+            <node x="" y="">entity.Medicine</node>
+            <node x="" y="">filter.ValidationFilter</node>
+            <node x="" y="">dao.Database</node>
+            <node x="" y="">servlet.Logout</node>
+            <node x="" y="">servlet.Login</node>
+            <node x="" y="">servlet.MakeOrder</node>
+            <node x="" y="">dao.userDao.UserMySqlDao</node>
+            <node x="" y="">entity.User</node>
+            <node x="" y="">dao.userDao.UserDao</node>
+            <node x="" y="">servlet.MedicineServlet</node>
+            <node x="" y="">dao.MySqlDAOFactory</node>
+            <node x="" y="">listener.ContextListener</node>
+            <node x="" y="">dao.medicineDao.MedicineDao</node>
+            <node x="" y="">servlet.AddUser</node>
+            <node x="" y="">servlet.CartServlet</node>
+            <node x="" y="">dao.medicineDao.MedicineMySqlDao</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="82.0" y="236.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listener/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/UpdateOrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/changemedicine.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="83" column="76" selection-start-line="83" selection-start-column="76" selection-end-line="83" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/OrderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="e#981#988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/orderlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-Apteka">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Apteka</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="10.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/dao.userDao.UserDao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>dao.userDao.UserDao</OriginalElement>
+          <nodes>
+            <node x="843.0" y="946.5">entity.Item</node>
+            <node x="989.0" y="346.5">dao.Database</node>
+            <node x="971.5" y="626.5">dao.orderDao.OrderMySqlDao</node>
+            <node x="309.0" y="626.5">dao.orderDao.OrderDao</node>
+            <node x="196.0" y="1386.5">servlet.Logout</node>
+            <node x="1175.0" y="66.5">filter.ClientFilter</node>
+            <node x="465.5" y="746.5">servlet.OrderList</node>
+            <node x="3004.5" y="1146.5">servlet.MedicineServlet</node>
+            <node x="2004.5" y="426.5">dao.MySqlDAOFactory</node>
+            <node x="2204.5" y="506.5">listener.ContextListener</node>
+            <node x="517.5" y="546.5">servlet.UpdateOrderStatus</node>
+            <node x="2818.5" y="1226.5">dao.medicineDao.MedicineDao</node>
+            <node x="2608.0" y="1146.5">servlet.ChangeMedicine</node>
+            <node x="625.5" y="1226.5">servlet.AddToCart</node>
+            <node x="2429.0" y="1066.5">entity.Medicine</node>
+            <node x="-39.0" y="1386.5">filter.ValidationFilter</node>
+            <node x="1879.5" y="186.5">servlet.Login</node>
+            <node x="1175.0" y="346.5">dao.userDao.UserMySqlDao</node>
+            <node x="105.5" y="826.5">servlet.MakeOrder</node>
+            <node x="1203.0" y="186.5">entity.User</node>
+            <node x="1392.5" y="266.5">dao.userDao.UserDao</node>
+            <node x="679.5" y="826.5">entity.Order</node>
+            <node x="1632.5" y="266.5">servlet.AddUser</node>
+            <node x="-21.5" y="946.5">servlet.CartServlet</node>
+            <node x="2401.0" y="426.5">dao.medicineDao.MedicineMySqlDao</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="dao.medicineDao.MedicineMySqlDao" target="entity.Medicine">
+              <point x="0.0" y="13.5" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="dao.userDao.UserDao" target="entity.User">
+              <point x="0.0" y="-13.5" />
+              <point x="1440.0" y="208.0" />
+              <point x="37.0" y="8.0" />
+            </edge>
+            <edge source="dao.userDao.UserMySqlDao" target="dao.userDao.UserDao">
+              <point x="65.0" y="-8.0" />
+              <point x="1440.0" y="352.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="servlet.CartServlet" target="entity.Item">
+              <point x="61.5" y="0.0" />
+              <point x="-37.0" y="0.0" />
+            </edge>
+            <edge source="servlet.ChangeMedicine" target="entity.Medicine">
+              <point x="-72.0" y="0.0" />
+              <point x="2520.0" y="1160.0" />
+              <point x="40.0" y="13.5" />
+            </edge>
+            <edge source="dao.orderDao.OrderMySqlDao" target="entity.Order">
+              <point x="-40.0" y="13.5" />
+              <point x="1000.0" y="720.0" />
+              <point x="755.0" y="720.0" />
+              <point x="35.0" y="-13.5" />
+            </edge>
+            <edge source="dao.medicineDao.MedicineDao" target="entity.Medicine">
+              <point x="-61.5" y="-4.0" />
+              <point x="2480.0" y="1236.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="entity.Item" target="entity.Medicine">
+              <point x="16.0" y="13.5" />
+              <point x="896.0" y="1080.0" />
+              <point x="-51.0" y="0.0" />
+            </edge>
+            <edge source="dao.orderDao.OrderMySqlDao" target="dao.Database">
+              <point x="0.0" y="-13.5" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="servlet.AddToCart" target="entity.Item">
+              <point x="54.5" y="-8.0" />
+              <point x="848.0" y="1232.0" />
+              <point x="-32.0" y="13.5" />
+            </edge>
+            <edge source="dao.MySqlDAOFactory" target="dao.medicineDao.MedicineMySqlDao">
+              <point x="75.5" y="0.0" />
+              <point x="-79.0" y="0.0" />
+            </edge>
+            <edge source="dao.MySqlDAOFactory" target="dao.orderDao.OrderMySqlDao">
+              <point x="-75.5" y="0.0" />
+              <point x="1080.0" y="440.0" />
+              <point x="40.0" y="-13.5" />
+            </edge>
+            <edge source="dao.orderDao.OrderMySqlDao" target="entity.Medicine">
+              <point x="40.0" y="13.5" />
+              <point x="1080.0" y="1072.0" />
+              <point x="-51.0" y="-8.0" />
+            </edge>
+            <edge source="servlet.ChangeMedicine" target="dao.medicineDao.MedicineDao">
+              <point x="72.0" y="0.0" />
+              <point x="2840.0" y="1160.0" />
+              <point x="-40.0" y="-13.5" />
+            </edge>
+            <edge source="dao.orderDao.OrderMySqlDao" target="entity.Item">
+              <point x="-13.333333333333258" y="13.5" />
+              <point x="1026.6666666666667" y="960.0" />
+              <point x="37.0" y="0.0" />
+            </edge>
+            <edge source="dao.orderDao.OrderMySqlDao" target="dao.orderDao.OrderDao">
+              <point x="-68.5" y="0.0" />
+              <point x="51.0" y="0.0" />
+            </edge>
+            <edge source="servlet.Login" target="dao.userDao.UserMySqlDao">
+              <point x="0.0" y="13.5" />
+              <point x="1920.0" y="358.4" />
+              <point x="65.0" y="-1.6000000000000227" />
+            </edge>
+            <edge source="servlet.MakeOrder" target="entity.Order">
+              <point x="54.5" y="0.0" />
+              <point x="-40.5" y="0.0" />
+            </edge>
+            <edge source="servlet.MedicineServlet" target="dao.medicineDao.MedicineDao">
+              <point x="0.0" y="13.5" />
+              <point x="3080.0" y="1232.0" />
+              <point x="61.5" y="-8.0" />
+            </edge>
+            <edge source="servlet.MakeOrder" target="entity.Item">
+              <point x="0.0" y="13.5" />
+              <point x="160.0" y="956.0" />
+              <point x="-37.0" y="-4.0" />
+            </edge>
+            <edge source="servlet.OrderList" target="dao.orderDao.OrderDao">
+              <point x="0.0" y="-13.5" />
+              <point x="520.0" y="648.0" />
+              <point x="51.0" y="8.0" />
+            </edge>
+            <edge source="servlet.MakeOrder" target="entity.User">
+              <point x="-54.5" y="0.0" />
+              <point x="40.0" y="840.0" />
+              <point x="40.0" y="200.0" />
+              <point x="-37.0" y="0.0" />
+            </edge>
+            <edge source="entity.Order" target="entity.Item">
+              <point x="40.5" y="0.0" />
+              <point x="880.0" y="840.0" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="dao.userDao.UserMySqlDao" target="entity.User">
+              <point x="65.0" y="-3.1999999999999886" />
+              <point x="1800.0" y="356.8" />
+              <point x="1800.0" y="202.66666666666666" />
+              <point x="37.0" y="2.666666666666657" />
+            </edge>
+            <edge source="filter.ClientFilter" target="entity.User">
+              <point x="0.0" y="13.5" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="servlet.UpdateOrderStatus" target="dao.orderDao.OrderDao">
+              <point x="-82.5" y="0.0" />
+              <point x="360.0" y="560.0" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="dao.orderDao.OrderDao" target="entity.Order">
+              <point x="51.0" y="4.0" />
+              <point x="720.0" y="644.0" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="servlet.MedicineServlet" target="entity.Medicine">
+              <point x="0.0" y="-13.5" />
+              <point x="3080.0" y="1080.0" />
+              <point x="51.0" y="0.0" />
+            </edge>
+            <edge source="servlet.AddUser" target="dao.userDao.UserMySqlDao">
+              <point x="0.0" y="13.5" />
+              <point x="1680.0" y="355.2" />
+              <point x="65.0" y="-4.800000000000011" />
+            </edge>
+            <edge source="servlet.Login" target="entity.User">
+              <point x="-40.5" y="0.0" />
+              <point x="37.0" y="0.0" />
+            </edge>
+            <edge source="dao.medicineDao.MedicineMySqlDao" target="dao.Database">
+              <point x="0.0" y="-13.5" />
+              <point x="2480.0" y="0.0" />
+              <point x="1040.0" y="0.0" />
+              <point x="0.0" y="-13.5" />
+            </edge>
+            <edge source="servlet.MakeOrder" target="dao.orderDao.OrderDao">
+              <point x="54.5" y="-8.0" />
+              <point x="320.0" y="832.0" />
+              <point x="-40.0" y="13.5" />
+            </edge>
+            <edge source="servlet.AddToCart" target="dao.medicineDao.MedicineDao">
+              <point x="54.5" y="0.0" />
+              <point x="-61.5" y="0.0" />
+            </edge>
+            <edge source="servlet.OrderList" target="entity.Order">
+              <point x="54.5" y="0.0" />
+              <point x="685.0" y="760.0" />
+              <point x="-35.0" y="-13.5" />
+            </edge>
+            <edge source="dao.userDao.UserMySqlDao" target="dao.Database">
+              <point x="-65.0" y="0.0" />
+              <point x="51.0" y="0.0" />
+            </edge>
+            <edge source="listener.ContextListener" target="dao.MySqlDAOFactory">
+              <point x="0.0" y="-13.5" />
+              <point x="2280.0" y="448.0" />
+              <point x="75.5" y="8.0" />
+            </edge>
+            <edge source="dao.medicineDao.MedicineMySqlDao" target="dao.medicineDao.MedicineDao">
+              <point x="79.0" y="0.0" />
+              <point x="3200.0" y="440.0" />
+              <point x="3200.0" y="1240.0" />
+              <point x="61.5" y="0.0" />
+            </edge>
+            <edge source="dao.MySqlDAOFactory" target="dao.userDao.UserMySqlDao">
+              <point x="0.0" y="-13.5" />
+              <point x="2080.0" y="368.0" />
+              <point x="65.0" y="8.0" />
+            </edge>
+            <edge source="servlet.AddUser" target="entity.User">
+              <point x="0.0" y="-13.5" />
+              <point x="1680.0" y="205.33333333333334" />
+              <point x="37.0" y="5.333333333333343" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4" x="109.0" y="338.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/userDao/UserMySqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jspf/navbar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/userDao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Medicine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="123" column="39" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/Logout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="54" column="21" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/AddUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="43" column="85" selection-start-line="42" selection-start-column="17" selection-end-line="43" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2347#2348#0" expanded="true" />
+            <element signature="e#2385#2386#0" expanded="true" />
+            <element signature="e#3150#3151#0" expanded="true" />
+            <element signature="e#3181#3182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/medicine.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/alert.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="104" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sql.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filter/ValidationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/ChangeMedicine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/AddToCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/makeorder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="132" selection-start-line="22" selection-start-column="132" selection-end-line="22" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/cartlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/MedicineServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filter/ClientFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/CartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/medicineDao/MedicineDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/MySqlDAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/MakeOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/orderDao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/orderDao/OrderMySqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/medicineDao/MedicineMySqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1365">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#916#926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>apteka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Apteka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javax.servlet.jsp.jstl-1.2.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
